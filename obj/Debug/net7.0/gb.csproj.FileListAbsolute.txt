@@ -1,0 +1,15 @@
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/bin/Debug/net7.0/gb
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/bin/Debug/net7.0/gb.deps.json
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/bin/Debug/net7.0/gb.runtimeconfig.json
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/bin/Debug/net7.0/gb.dll
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/bin/Debug/net7.0/gb.pdb
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.csproj.AssemblyReference.cache
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.AssemblyInfoInputs.cache
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.AssemblyInfo.cs
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.csproj.CoreCompileInputs.cache
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.dll
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/refint/gb.dll
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.pdb
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/gb.genruntimeconfig.cache
+/Users/danilov/Documents/Обучение/Разработчик/Выбор специализации/gb/obj/Debug/net7.0/ref/gb.dll
